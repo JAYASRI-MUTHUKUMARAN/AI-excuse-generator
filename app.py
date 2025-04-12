@@ -4,7 +4,7 @@ import requests
 app = Flask(__name__)
 
 
-HUGGINGFACE_API_KEY = "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"
+
 HUGGINGFACE_MODEL_URL = "https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct"
 
 @app.route('/')
