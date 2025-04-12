@@ -1,0 +1,1 @@
+# AI-excuse-generator
